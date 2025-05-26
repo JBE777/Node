@@ -2,11 +2,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es: Javier Baez
 ===================================================================================================================================
 
-![Bienvenido](https://img.shields.io/badge/Bienvenido%20a%20mi%20github%20de%20data%20science%20e%20IoT-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
-
-![banner](github-jbe777.png)
-<br/><hr/>
-
 ![Esbuild](https://img.shields.io/badge/Aprendiendo%20nuevas%20tecnologias%20html%20css3%20javascript-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 # Curso de Node.js y Express - freeCodeCamp en Español
 
