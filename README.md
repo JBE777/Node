@@ -10,7 +10,6 @@ Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Nod
 
 Para tomar el curso, debes tener conocimiento previo de **JavaScript** ya que Node.js es un entorno de ejecución de JavaScript.  
 <br>
-<hr>
 
 Se recomienda tener conocimento previo de funciones flecha, métodos, objetos, `.map()`, `.filter()`, `require()`, `.findIndex()`, y `.sort()`.
 
