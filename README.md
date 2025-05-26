@@ -8,6 +8,12 @@
 
 Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Node.js y Express paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
 
+* ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
+
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
+
 
 ## 🔸 Conocimiento Previo y Herramientas
 
