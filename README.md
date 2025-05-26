@@ -10,8 +10,8 @@ Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Nod
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=793s)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=XqFR2lqBYPs&t=7200s)
+[![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23009900)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
+[![Express](https://img.shields.io/badge/express-%2300ffff.svg?style=for-the-badge&logo=express&logoColor=%23990000)](https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 
 
