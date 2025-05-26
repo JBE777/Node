@@ -31,7 +31,7 @@ También usaremos el terminal integrado de Visual Studio Code.
 Los temas están enfocados en un concepto específico. Aquí están dividos en categorías principales para darte una idea general del contenido.
 
 
-#### Introducción a Node.js y Conceptos Básicos
+[![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23009900)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)#### Introducción a Node.js y Conceptos Básicos
 * Introducción a Node.js.
 * Conceptos básicos de desarrollo web back-end. 
 * Aplicaciones de Node.js.
