@@ -3,8 +3,6 @@
 
 # Curso de Node.js y Express - freeCodeCamp en Español
 
-¡Bienvenidos! 👋 Este repositorio contiene el código del curso de Node.js y Express creado para freeCodeCamp en Español.
-
 Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Node.js y Express paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
 
 
