@@ -1,5 +1,5 @@
 # Node.js y Express
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es: Javier Baez
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
 ![Node.js](https://img.shields.io/badge/Aprendiendo%20Node.js%20javascript%20express-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
