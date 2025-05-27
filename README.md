@@ -11,7 +11,7 @@ Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Nod
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
 [![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=%23009900)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
-[![Express](https://img.shields.io/badge/express-%2300ffff.svg?style=for-the-badge&logo=express&logoColor=%23990000)](https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s)
+[![Express](https://img.shields.io/badge/express-%23009999.svg?style=for-the-badge&logo=express&logoColor=%23ff0000)](https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 
 
@@ -125,4 +125,6 @@ El repositorio está divido en estas carpetas que contienen los archivos de cód
 También puedes encontrar un archivo específico haciendo clic en el botón "Go to file" y escribiendo el nombre del archivo que deseas encontrar.
 
 ## 🔹 Enlace al Curso
-Si deseas ver el curso en nuestro canal de YouTube, haz clic en este enlace: https://www.youtube.com/watch?v=1hpc70_OoAg
+Si deseas ver el curso en nuestro canal de YouTube, haz clic en este enlace para Node.js: https://www.youtube.com/watch?v=1hpc70_OoAg
+Express: https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s
+
