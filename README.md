@@ -10,7 +10,7 @@ Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Nod
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23009900)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
+[![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=%23009900)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
 [![Express](https://img.shields.io/badge/express-%2300ffff.svg?style=for-the-badge&logo=express&logoColor=%23990000)](https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 
@@ -31,7 +31,7 @@ También usaremos el terminal integrado de Visual Studio Code.
 Los temas están enfocados en un concepto específico. Aquí están dividos en categorías principales para darte una idea general del contenido.
 
 #### Introducción a Node.js y Conceptos Básicos
-[![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%23009900)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
+![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=%23009900)
 
 * Introducción a Node.js.
 * Conceptos básicos de desarrollo web back-end. 
@@ -56,6 +56,8 @@ Los temas están enfocados en un concepto específico. Aquí están dividos en c
 * El módulo timers.
 
 #### Introducción a npm y JSON
+![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=%23990000)
+![json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=%23009900)
 * ¿Qué es npm?
 * Conceptos básicos de npm.
 * Inicializar un paquete con npm init.
@@ -83,12 +85,14 @@ Los temas están enfocados en un concepto específico. Aquí están dividos en c
 * Routing (Enrutamiento) en Node.js. 
 
 #### Nodemon
+![Nodemon](https://img.shields.io/badge/nodemon-%23000000.svg?style=for-the-badge&logo=nodemon&logoColor=%23009900)
 * ¿Qué es Nodemon?
 * Cómo instalarlo globalmente.
 * Cómo usarlo para actualizar aplicaciones de Node.js automáticamente.
 * Conceptos importantes: CRUD, REST, API.
 
 #### Express
+![Express](https://img.shields.io/badge/express-%23009999.svg?style=for-the-badge&logo=express&logoColor=%23990000)
 * Cómo instalar Express y cómo crear un proyecto.
 * Routing en Express.
 * Express y Nodemon. 
