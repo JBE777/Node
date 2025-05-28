@@ -31,7 +31,7 @@ También usaremos el terminal integrado de Visual Studio Code.
 Los temas están enfocados en un concepto específico. Aquí están dividos en categorías principales para darte una idea general del contenido.
 
 #### Introducción a Node.js y Conceptos Básicos
-![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=green)
+![Node.js](https://img.shields.io/badge/node.js-3300aa.svg?style=for-the-badge&logo=node.js&logoColor=lightgreen)
 
 * Introducción a Node.js.
 * Conceptos básicos de desarrollo web back-end. 
@@ -85,14 +85,14 @@ Los temas están enfocados en un concepto específico. Aquí están dividos en c
 * Routing (Enrutamiento) en Node.js. 
 
 #### Nodemon
-![Nodemon](https://img.shields.io/badge/nodemon-3300aa.svg?style=for-the-badge&logo=nodemon&logoColor=orange)
+![Nodemon](https://img.shields.io/badge/nodemon-3300aa.svg?style=for-the-badge&logo=nodemon&logoColor=lightgreen)
 * ¿Qué es Nodemon?
 * Cómo instalarlo globalmente.
 * Cómo usarlo para actualizar aplicaciones de Node.js automáticamente.
 * Conceptos importantes: CRUD, REST, API.
 
 #### Express
-![Express](https://img.shields.io/badge/express-3300aa.svg?style=for-the-badge&logo=express&logoColor=chocolate)
+![Express](https://img.shields.io/badge/express-3300aa.svg?style=for-the-badge&logo=express&logoColor=lightgreen)
 * Cómo instalar Express y cómo crear un proyecto.
 * Routing en Express.
 * Express y Nodemon. 
