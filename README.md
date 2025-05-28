@@ -2,7 +2,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Javier Baez
 ===================================================================================================================================
 
-![Node.js](https://img.shields.io/badge/Aprendiendo%20Node.js%20javascript%20express-%23000000.svg?style=for-the-badge&logo=esbuild&logoColor=white)
+![Node.js](https://img.shields.io/badge/Aprendiendo-Node.js%20javascript%20express-3300aa.svg?style=for-the-badge&logo=esbuild&logoColor=white)
 
 ## Curso de Node.js y Express - freeCodeCamp en Español
 
@@ -10,9 +10,9 @@ Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Nod
 
 * ##### <b><em>Haz click sobre cada icono para aprender del tema<em></b>
 
-[![Node.js](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=green)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
-[![Express](https://img.shields.io/badge/express-%23009999.svg?style=for-the-badge&logo=express&logoColor=gold)](https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=gold)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
+[![Node.js](https://img.shields.io/badge/node.js-3300aa.svg?style=for-the-badge&logo=node.js&logoColor=lightgreen)](https://www.youtube.com/watch?v=1hpc70_OoAg&t=7s)
+[![Express](https://img.shields.io/badge/express-3300aa.svg?style=for-the-badge&logo=express&logoColor=lightgreen)](https://www.youtube.com/watch?v=tDF644vI-gs&t=2073s)
+[![JavaScript](https://img.shields.io/badge/javascript-3300aa.svg?style=for-the-badge&logo=javascript&logoColor=gold)](https://www.youtube.com/watch?v=v8Evfd6AFpw)
 
 
 ## 🔸 Conocimiento Previo y Herramientas
@@ -56,8 +56,8 @@ Los temas están enfocados en un concepto específico. Aquí están dividos en c
 * El módulo timers.
 
 #### Introducción a npm y JSON
-![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=red)
-![json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=green)
+![npm](https://img.shields.io/badge/npm-3300aa.svg?style=for-the-badge&logo=npm&logoColor=gold)
+![json](https://img.shields.io/badge/json-3300aa.svg?style=for-the-badge&logo=json&logoColor=chocolate)
 * ¿Qué es npm?
 * Conceptos básicos de npm.
 * Inicializar un paquete con npm init.
@@ -85,14 +85,14 @@ Los temas están enfocados en un concepto específico. Aquí están dividos en c
 * Routing (Enrutamiento) en Node.js. 
 
 #### Nodemon
-![Nodemon](https://img.shields.io/badge/nodemon-%23000000.svg?style=for-the-badge&logo=nodemon&logoColor=green)
+![Nodemon](https://img.shields.io/badge/nodemon-3300aa.svg?style=for-the-badge&logo=nodemon&logoColor=orange)
 * ¿Qué es Nodemon?
 * Cómo instalarlo globalmente.
 * Cómo usarlo para actualizar aplicaciones de Node.js automáticamente.
 * Conceptos importantes: CRUD, REST, API.
 
 #### Express
-![Express](https://img.shields.io/badge/express-%23009999.svg?style=for-the-badge&logo=express&logoColor=gold)
+![Express](https://img.shields.io/badge/express-3300aa.svg?style=for-the-badge&logo=express&logoColor=chocolate)
 * Cómo instalar Express y cómo crear un proyecto.
 * Routing en Express.
 * Express y Nodemon. 
